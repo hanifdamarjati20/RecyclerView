@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TugasRV</string>
+
+    <string-array name="game_online">
+        <item>PUBGMobile</item>
+        <item>MobileLegend</item>
+        <item>LifeAfter</item>
+        <item>FreeFire</item>
+        <item>ChessRush</item>
+        <item>ClashOfClans</item>
+        <item>CallOfDutyMobile</item>
+        <item>ArenaOfValor</item>
+        <item>PES2020</item>
+        <item>LordsMobile</item>
+        <item>WormsZone</item>
+        <item>8BallPool</item>
+        <item>ClashRoyale</item>
+        <item>TheSims</item>
+        <item>Asphalt9</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+    </string-array>
+</resources>
